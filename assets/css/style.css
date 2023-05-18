@@ -784,4 +784,10 @@ table td {
   margin-bottom: 0;
 }
 
+.img-right {
+  float: right;
+  width: 250px;
+  margin: 0 0 1em 1.5em;
+}
+
 /*# sourceMappingURL=style.css.map */
